@@ -44,7 +44,6 @@ pip install -r requirements.txt
 python initial_db.py
 python app.py
 ```
-Open http://127.0.0.1:8080 in your browser.
 
 Note: `initial_db.py` recreates the tables and deletes existing data.
 
@@ -54,4 +53,10 @@ Under development. The first version covers registration, projects and join requ
 
 ## Contributing
 This project is meant to become an open-source platform where community members can contribute ideas, features, improvements and documentation. Open an issue or a pull request to get started..
-   
+
+##  Author & Credits
+
+**Designed and developed by Purnima.**
+
+This tool was conceptualized and developed by me as part of the Wiki Workplace project.
+
