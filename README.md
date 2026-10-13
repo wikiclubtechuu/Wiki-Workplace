@@ -57,6 +57,8 @@ This project is meant to become an open-source platform where community members 
 ##  Author & Credits
 
 **Designed and developed by Purnima.**
+github-https://github.com/aanyanya09
+Linkdn-www.linkedin.com/in/aanya-shukla-5833953a5
 
 This tool was conceptualized and developed by me as part of the Wiki Workplace project.
 
